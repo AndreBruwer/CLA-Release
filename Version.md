@@ -1,2 +1,2 @@
-0004-2021-08-09
-1. corected the order in which AVSEC + x-ray certificates are printed
+0005-2021-08-13
+1. Corrected the error that caused the new DG Lith Bat for Pass and Crew from printing
