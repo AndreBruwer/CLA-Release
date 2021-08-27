@@ -1,3 +1,6 @@
+0008-2021-08-27
+1. Managed to get the historical report to pdf working again
+
 0007-2021-08-24
 1. Fixed a bug that prevented the assignment of certificate number assignment
 
