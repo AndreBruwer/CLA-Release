@@ -1,3 +1,6 @@
+0009-2021-09-10
+1. Certificates are now grouped together based on their class number
+
 0008-2021-08-27
 1. Managed to get the historical report to pdf working again
 
