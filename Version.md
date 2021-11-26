@@ -1,3 +1,7 @@
+0014-2021-11-26
+1. Enabled the paperback att-reg
+2. Attempted a fix to a historical report recurring error
+
 0013-2021-11-25
 1. Made optimizations to the student enrollment, meaning that it uses less bandwidth, lessoning the strain on the database
 
