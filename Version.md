@@ -1,3 +1,6 @@
+0015-2021-11-30
+1. Fixed bug in Att Reg when M J Matjila was the instuctor
+
 0014-2021-11-26
 1. Enabled the paperback att-reg
 2. Attempted a fix to a historical report recurring error
@@ -10,7 +13,3 @@
 
 0011-2021-09-21
 1. Changed the ATO number for DGR
-
-0010-2021-09-16
-1. Fixed the issue of the duplicate Att Reg prining
-2. You are now able to edit the classes details more precisely
