@@ -1,5 +1,8 @@
+0016-2021-12-01
+1. fixed expire report 'save to pdf'
+
 0015-2021-11-30
-1. Fixed bug in Att Reg when M J Matjila was the instuctor
+1. Fixed bug in Att Reg when M J Matjila was the instructor
 
 0014-2021-11-26
 1. Enabled the paperback att-reg
