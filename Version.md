@@ -1,3 +1,6 @@
+0017-2022-05-26
+1. classes newly created now expires one day earlier by default
+
 0016-2021-12-01
 1. fixed expire report 'save to pdf'
 
@@ -13,6 +16,3 @@
 
 0012-2021-09-29
 1. Added built in protection for when attempting to print illegal characters in the certificate: "\"
-
-0011-2021-09-21
-1. Changed the ATO number for DGR
