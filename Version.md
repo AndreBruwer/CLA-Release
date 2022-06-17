@@ -1,3 +1,6 @@
+0018-2022-06-17
+1. ATO number on DGR CAT 6
+
 0017-2022-05-26
 1. classes newly created now expires one day earlier by default
 
