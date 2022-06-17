@@ -1,3 +1,6 @@
+0019-2022-06-17
+1. ATO number on all DGR verified
+
 0018-2022-06-17
 1. ATO number on DGR CAT 6
 
